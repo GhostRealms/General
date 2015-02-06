@@ -1,0 +1,3 @@
+plugin: General
+main: com.rmarmorstein.general.General
+version: {$project.version}

@@ -46,6 +46,7 @@
             <url>http://maven.sk89q.com/repo/</url>
         </repository>
     </repositories>
+    
     <dependencies>
         <dependency>
             <groupId>com.google.code.gson</groupId>
@@ -78,6 +79,11 @@
             <groupId>mkremins</groupId>
             <artifactId>fanciful</artifactId>
             <version>0.3.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sk89q</groupId>
+            <artifactId>intake</artifactId>
+            <version>3.1.2-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
