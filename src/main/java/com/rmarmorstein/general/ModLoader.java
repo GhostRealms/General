@@ -11,6 +11,10 @@ public class ModLoader {
     
     public ModLoader(Plugin plugin) {
         
-        
     }
+    
+    public void registerCommand(Module module, String command) {
+
+    }
+    
 }
